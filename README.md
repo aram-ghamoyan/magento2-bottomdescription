@@ -1,8 +1,11 @@
-# Bottom Description for Magento 2
+# <p align=center>aram-ghamoyan/magento2-bottomdescription</p>
 
-![Magento Version](https://img.shields.io/badge/magento-~2.3-orange.svg)
-![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)
-![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
+<div align="center">
+  <p align=center>Bottom Description for Magento 2</p>
+  <img src="https://img.shields.io/badge/magento-~2.3-orange.svg" alt="Supported Magento Versions" />
+  <img src="https://img.shields.io/badge/maintained-yes-brightgreen.svg" alt="Maintaind" />
+  <img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="License" />
+</div>
 
 **Features**
 
