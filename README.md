@@ -21,7 +21,7 @@
 
 *Via Composer (Recommended)*
 ```bash
-composer require aram-ghamoyan/bottomdescription
+composer require aram-ghamoyan/magento2-bottomdescription
 php bin/magento module:enable AramGhamoyan_BottomDescription
 php bin/magento setup:upgrade
 php bin/magento setup:di:compile
@@ -76,7 +76,7 @@ This project is licensed under the GNU General Public License v3.0
 
 **Support**
 
-For issues, questions, or contributions, please visit the GitHub repository at github.com/aram-ghamoyan/bottomdescription
+For issues, questions, or contributions, please visit the GitHub repository at github.com/aram-ghamoyan/magento2-bottomdescription
 
 **Contributing**
 
