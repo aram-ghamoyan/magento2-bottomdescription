@@ -1,0 +1,25 @@
+{
+    "name": "aram-ghamoyan/magento2-bottomdescription",
+    "description": "Adds a bottom description attribute to category pages",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Aram Ghamoyan",
+            "email": "aram@ghamoyan.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0",
+        "magento/framework": ">=102.0.0"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "AramGhamoyan\\BottomDescription\\": ""
+        }
+    }
+}
