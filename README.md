@@ -76,15 +76,3 @@ To customize the appearance of the bottom description, you can override the temp
 **License**
 
 This project is licensed under the GNU General Public License v3.0
-
-**Support**
-
-For issues, questions, or contributions, please visit the GitHub repository at github.com/aram-ghamoyan/magento2-bottomdescription
-
-**Contributing**
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-**Author**
-
-Aram Ghamoyan
